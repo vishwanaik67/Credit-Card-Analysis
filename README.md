@@ -61,8 +61,8 @@ The analysis is based on two datasets:
 The Power BI dashboard provides a visual representation of the analysis, showcasing key metrics such as total revenue, interest earned, transaction amounts, and counts. It includes detailed breakdowns by card category, customer job, age group, and more.
 
 ### Screenshots
-Credit Card Transaction Report(![Screenshot 2024-07-15 134808](https://github.com/user-attachments/assets/04c6adb3-03bf-4aa8-823b-27e937b74c8d)) 
-Credit Card Customer Report(![Screenshot 2024-07-15 134846](https://github.com/user-attachments/assets/c19a3599-9577-4413-9b46-6f7efa4316d6))
+Credit Card Transaction Report![Screenshot 2024-07-15 134808](https://github.com/user-attachments/assets/04c6adb3-03bf-4aa8-823b-27e937b74c8d)
+Credit Card Customer Report![Screenshot 2024-07-15 134846](https://github.com/user-attachments/assets/c19a3599-9577-4413-9b46-6f7efa4316d6)
 
 ## Additional Insights
 - **Revenue by Region**: Further analyze the regional distribution of revenue to identify potential markets.
