@@ -62,7 +62,7 @@ The Power BI dashboard provides a visual representation of the analysis, showcas
 
 ### Screenshots
  
-![Credit Card Transaction Report]()
+![Credit Card Transaction Report](![Screenshot 2024-07-15 134846](https://github.com/user-attachments/assets/c19a3599-9577-4413-9b46-6f7efa4316d6))
 
 ## Additional Insights
 - **Revenue by Region**: Further analyze the regional distribution of revenue to identify potential markets.
