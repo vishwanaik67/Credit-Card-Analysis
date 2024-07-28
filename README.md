@@ -9,6 +9,8 @@
 - [Power BI Dashboard](#power-bi-dashboard)
 - [Additional Insights](#additional-insights)
 
+- 
+![Screenshot 2024-07-28 163010](https://github.com/user-attachments/assets/b5df11a4-7e52-47d8-9ba3-e40f16d8995d)
 ## Project Overview
 The Credit Card Analysis project aims to analyze credit card transactions and customer data to generate insights for improving revenue, customer satisfaction, and transaction efficiency. The analysis covers various aspects such as demographics, transaction patterns, and revenue sources.
 
